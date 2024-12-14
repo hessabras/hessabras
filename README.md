@@ -3,11 +3,11 @@
 
 # Cheking the new feed from hesabraslaw.com
 <!-- BLOG-POST-LIST:START -->
-- [معرفی دعاوی طاری &lpar;قواعد مشترک ، مفهوم وحدت منشاء ، ارتباط و ارتباط کامل&rpar;](https://hesabraslaw.com/blog/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AF%D8%B9%D8%A7%D9%88%DB%8C-%D8%B7%D8%A7%D8%B1%DB%8C-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%AF%D9%82%DB%8C%D9%82-%D9%88%D8%AD%D8%AF%D8%AA-%D9%85%D9%86%D8%B4%D8%A7%D8%A1-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D9%88-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%DA%A9%D8%A7%D9%85%D9%84-%D8%A8%DB%8C%D9%86-%D8%AF%D9%88-%D8%AF%D8%B9%D9%88%D8%A7/)
-- [دورنمایی به جرم محاربه در حقوق جزای ایران](https://hesabraslaw.com/blog/%D8%AF%D9%88%D8%B1%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%AC%D8%B1%D9%85-%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D9%87-%D8%AF%D8%B1-%D8%AD%D9%82%D9%88%D9%82-%D8%AC%D8%B2%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/)
-- [تخلفات ومجازات های اداری](https://hesabraslaw.com/blog/%D8%AA%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D9%85%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/)
-- [دفاع شکلی در دعاوی حقوقی&lpar; بخش دوم&rpar;](https://hesabraslaw.com/blog/%D8%AF%D9%81%D8%A7%D8%B9-%D8%B4%DA%A9%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AF%D8%B9%D8%A7%D9%88%DB%8C-%D8%AD%D9%82%D9%88%D9%82%DB%8C-%D8%A8%D8%AE%D8%B4-%D8%AF%D9%88%D9%85/)
-- [دفاع شکلی در دعاوی حقوقی&lpar; بخش اول&rpar;](https://hesabraslaw.com/blog/%D8%AF%D9%81%D8%A7%D8%B9-%D8%B4%DA%A9%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AF%D8%B9%D8%A7%D9%88%DB%8C-%D8%AD%D9%82%D9%88%D9%82%DB%8C-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%88%D9%84/)
+- [آدرس دادسراهای تهران](https://www.elsalawyers.com/crime/%d8%a2%d8%af%d8%b1%d8%b3-%d8%af%d8%a7%d8%af%d8%b3%d8%b1%d8%a7%d9%87%d8%a7%db%8c-%d8%aa%d9%87%d8%b1%d8%a7%d9%86-2/)
+- [جزوه حقوق تجارت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%aa%d8%ac%d8%a7%d8%b1%d8%aa/)
+- [جزوه حقوق اساسی سه](https://www.elsalawyers.com/crime/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d8%b3%d8%a7%d8%b3%db%8c-%d8%b3%d9%87/)
+- [جزوه حقوق اساسی یک](https://www.elsalawyers.com/crime/10252/)
+- [حق مالکیت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ad%d9%82-%d9%85%d8%a7%d9%84%da%a9%db%8c%d8%aa/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
